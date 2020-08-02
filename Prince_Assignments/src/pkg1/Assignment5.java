@@ -1,6 +1,6 @@
 package pkg1;
 
-public class Assignment6 
+public class Assignment5 
 {
 	public void method1()
 	{
@@ -29,7 +29,7 @@ public class Assignment6
 	}
 	
 	public static void main(String[] args) {
-		Assignment6 obj=new Assignment6();
+		Assignment5 obj=new Assignment5();
 		obj.method4(1, 2, 3);
 	}
 }
